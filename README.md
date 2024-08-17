@@ -10,7 +10,7 @@ I began my journey as a programmer in 2021 when I enrolled in the National Techn
 * ✉️  You can contact me at [juliannieva90@gmail.com](mailto:juliannieva90@gmail.com)
 * 🧠  I'm learning ASP .NET
 * 🤝  I'm open to collaborating on Ionic/Angular projects
-* ⚡  I love working out!
+* ⚡  I love working out and videogames!
 
 ### Skills
 
